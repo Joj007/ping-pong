@@ -1,0 +1,22 @@
+Moore hírszerzési igazgató: Elnök úr, elnök úr! Az alien tényleg létezik, és megtaláltuk! Behoztuk a titkos laboratóriumba.
+>Látni akarom
+>Micsoda? Lehetetlen! (Katonaság: -1)(5)
+
+Moore hírszerzési igazgató: Pedig mondom, hogy megtaláltuk. Muszáj találkoznia vele.
+>Rendben(9)
+>Nem
+
+#Moore a laboratóriumhoz vezet téged. Az alien csendben ül egy vastag üvegfal mögött. Nem tűnik ijedtnek.
+
+13-as tesztalany: Maga az Utazó?
+>Igen(15)
+>A...mi?
+
+13-as tesztalany: Akkor bizonyítsa be, mondjon valamit, amit csak az Utazó tudhat.
+>Em...(19)
+>Hát, én...
+
+13-as tesztalany: Csak az utazóval vagyok hajlandó beszélni. Kínozhat, de nem szed ki mást belőlem.
+>Nem lesz rá szükség(vége)
+>Ahogy akarja
+

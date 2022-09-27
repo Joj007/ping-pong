@@ -1,0 +1,34 @@
+???: Készen állsz a küldetésre?
+>Igen(5)
+>Nem
+
+???: Helyes. Bármelyik percben 2075-ben találhatod magad. Gondolom tudod mit kell tenned.
+>ŐŐŐ...(9)
+>Én...
+
+???: Tudtam! Az arcodra van írva. Már megint nem emlékszel semmire.
+>Ki vagy te?(13)
+>Hol vagyunk?
+
+???: Én vagyok az idő. Irónikus, hogy éppen sietek, de segíthetek legalább az emlékeidet felfrissíteni.
+>Rendben(17)
+>Nem kell
+
+???: Perceken belül 2075-ben fogod magad találálni. A világ amiben élsz, kaotikus és zavaros a számtalan háború eredményeképpen.
+>Folytasd(21)
+>Ennyi elég is
+
+???: A feladatod, hogy azon kevés ország egyikét vezesd, amelyeket még nem érintett sugárveszély vagy biológiai támadás.
+>Sugárveszély?(25)
+>Vezessem?
+
+???: Igen. Az emberiség a tűzzel játszott, és most megfizeti az árát.
+>Milyen árat?
+>Nem értem
+
+???: Csak próbáld meg egyensúlyban tartani a négy hatalmi ágat, és talán túléled.
+>De...
+>Mi...
+
+???: Jó rendben. Biztos vagy benne, hogy boldogulsz tanácsok nélkül is?
+#Az entitás aki hozzád beszélt, eltűnik. Az elnöki szobában ébredsz
